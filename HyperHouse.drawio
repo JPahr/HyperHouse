@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T03:47:57.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qShxEs2gudJY1FeL4wTf" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T04:47:04.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="K9QNb9fgcK96mTF_aUNG" version="20.0.3" type="github">
   <diagram id="JuejqqkeZjVTdlKWfDY4" name="Страница 1">
-    <mxGraphModel dx="2188" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,13 +62,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-14" value="Microgreen&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="800" width="128" height="128" as="geometry" />
+          <mxGeometry x="1140" y="840" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-15" target="GoGvCS8tNq0_ag4hxfwt-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-15" value="Microgreen" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="1396" y="800" width="128" height="128" as="geometry" />
+          <mxGeometry x="1396" y="840" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-16" target="GoGvCS8tNq0_ag4hxfwt-19">
           <mxGeometry relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-16" value="Microgreen" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="800" width="128" height="128" as="geometry" />
+          <mxGeometry x="1682" y="840" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-17" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1435" y="1120" width="50" height="100" as="geometry" />
@@ -91,6 +91,11 @@
               <mxPoint x="1020" y="1370" />
               <mxPoint x="1020" y="870" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-62" value="охладитель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GoGvCS8tNq0_ag4hxfwt-20">
+          <mxGeometry x="-0.7708" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-19" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
@@ -129,19 +134,19 @@
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-43" value="Floor 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GoGvCS8tNq0_ag4hxfwt-44" value="Датчик воды&lt;br&gt;Датчик дыма" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="790" width="200" height="80" as="geometry" />
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-44" value="Датчик воды&lt;br&gt;Датчик дыма&lt;br&gt;Видеокамера&lt;br&gt;Датчик температуры&amp;nbsp;&lt;br&gt;Датчик влажности воздуха&lt;br&gt;Датчик влажности земли&lt;br&gt;Датчик освещённости&lt;br&gt;Датчик углекислого газа&lt;br&gt;Датчик кислотности грунта" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1868" y="750" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="GoGvCS8tNq0_ag4hxfwt-45" value="Датчик воды&lt;br&gt;Датчик дыма&lt;br&gt;Датчик потребление электроэнергии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-45" value="Датчик воды&lt;br&gt;Датчик дыма&lt;br&gt;Датчик потребление электроэнергии&lt;br&gt;Видеокамера&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1860" y="1310" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GoGvCS8tNq0_ag4hxfwt-46" value="&lt;br&gt;Датчик воды&lt;br&gt;Датчик дыма" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-46" value="&lt;br&gt;Датчик воды&lt;br&gt;Датчик дыма&lt;br&gt;Видеокамера&lt;br&gt;Датчик ветра" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1860" y="540" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-49" value="Roof" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1430" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GoGvCS8tNq0_ag4hxfwt-50" value="Датчик воды&lt;br&gt;Датчик дыма" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-50" value="Датчик дыма" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1860" y="255" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GoGvCS8tNq0_ag4hxfwt-53" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1.002;exitY=0.219;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-51" target="GoGvCS8tNq0_ag4hxfwt-2">
@@ -167,6 +172,9 @@
             <mxPoint x="2089.52" y="967.3099999999997" as="sourcePoint" />
             <mxPoint x="1850" y="970" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-61" value="Датчик воды&lt;br&gt;Датчик дыма&lt;br&gt;Датчик движения&lt;br&gt;Датчик открытия двери&lt;br&gt;Видеокамера" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1060" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
