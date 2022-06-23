@@ -1,1 +1,146 @@
-<mxfile host="Electron" modified="2022-06-23T03:10:54.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/19.0.3 Chrome/102.0.5005.63 Electron/19.0.3 Safari/537.36" etag="FJ70YsAeZag8vZ52hfxZ" version="19.0.3" type="device"><diagram id="JuejqqkeZjVTdlKWfDY4" name="Страница 1">zZTPT8MgFID/mh5NWtimO7pZf0SNh7qYeDGkPAsJlMqo7fbXS+1jbbMs0YOJp8L3HvD4eGlE17q9sawSj4aDikjM24heRYQkhM79pyO7QAiSwkqObACZ3APCGGktOWwnic4Y5WQ1hbkpS8jdhDFrTTNNezdqemrFCjgCWc7UMX2R3ImeXpDzgd+CLEQ4OVks+4hmIRlvshWMm2aEaBrRtTXG9SPdrkF19oKXft31ieihMAul+8mCh9fLAmqVivu3j01V7zditTnDXT6ZqvHCd0/PXbFGMdv5YlZj+W4XnFhTlxy6beOIrhohHWQVy7to49vAM+G08rPED/EAsA7ak5UnBx++k8BocHbnU8KCeIkOsYtmC5w3w5MkwbMYPUfIY9gFxWHvQZQfoKtfeCMnvDWy5Foqtf1/0uazv5Pmp0Mjf8dG/wOafgE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-23T03:42:15.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vnl8uItFXGeq5O-qN6T9" version="20.0.3" type="github">
+  <diagram id="JuejqqkeZjVTdlKWfDY4" name="Страница 1">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-48" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="150" width="760" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-2" value="" style="whiteSpace=wrap;html=1;rounded=0;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="440" width="760" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-4" target="GoGvCS8tNq0_ag4hxfwt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world-colored/80/solar-sun-green-energy-panel-128.png" vertex="1" parent="1">
+          <mxGeometry x="1080" y="312" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-5" target="GoGvCS8tNq0_ag4hxfwt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world-colored/80/solar-sun-green-energy-panel-128.png" vertex="1" parent="1">
+          <mxGeometry x="1396" y="312" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-6" target="GoGvCS8tNq0_ag4hxfwt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world-colored/80/solar-sun-green-energy-panel-128.png" vertex="1" parent="1">
+          <mxGeometry x="1712" y="312" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-7" target="GoGvCS8tNq0_ag4hxfwt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Wind_energy_wind_power_wind_turbine_windmill_windmill_tower-128.png" vertex="1" parent="1">
+          <mxGeometry x="1080" y="530" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-8" target="GoGvCS8tNq0_ag4hxfwt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Wind_energy_wind_power_wind_turbine_windmill_windmill_tower-128.png" vertex="1" parent="1">
+          <mxGeometry x="1396" y="530" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-9" target="GoGvCS8tNq0_ag4hxfwt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Wind_energy_wind_power_wind_turbine_windmill_windmill_tower-128.png" vertex="1" parent="1">
+          <mxGeometry x="1712" y="530" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-11" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fenergy-and-power-glyph-24-px%2F24%2FWind_energy_wind_power_wind_turbine_windmill_windmill_tower-128.png%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221080%22%20y%3D%22672%22%20width%3D%22128%22%20height%3D%22128%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="700" width="760" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-12" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fenergy-and-power-glyph-24-px%2F24%2FWind_energy_wind_power_wind_turbine_windmill_windmill_tower-128.png%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221080%22%20y%3D%22672%22%20width%3D%22128%22%20height%3D%22128%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="960" width="760" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-13" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fenergy-and-power-glyph-24-px%2F24%2FWind_energy_wind_power_wind_turbine_windmill_windmill_tower-128.png%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221080%22%20y%3D%22672%22%20width%3D%22128%22%20height%3D%22128%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1220" width="760" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-14" target="GoGvCS8tNq0_ag4hxfwt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-14" value="Microgreen&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="800" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-15" target="GoGvCS8tNq0_ag4hxfwt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-15" value="Microgreen" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="1396" y="800" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-16" target="GoGvCS8tNq0_ag4hxfwt-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1890" y="870" />
+              <mxPoint x="1890" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-16" value="Microgreen" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="800" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-17" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1010" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-19" target="GoGvCS8tNq0_ag4hxfwt-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="1410" />
+              <mxPoint x="1020" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-19" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="1340" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-24" value="Main Logic Unit&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
+          <mxGeometry x="670" y="920" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="GoGvCS8tNq0_ag4hxfwt-25" target="GoGvCS8tNq0_ag4hxfwt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-25" value="Charge controller" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mainframe.svg;" vertex="1" parent="1">
+          <mxGeometry x="850" y="510" width="105.26" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-33" value="Mining rig" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-36" value="Windmill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-37" value="Windmill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-38" value="Windmill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1746" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-39" value="Floor 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-41" value="Floor 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-42" value="Floor 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-43" value="Floor 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-44" value="Sensors:&lt;br&gt;Датчик воды&lt;br&gt;Датчик дыма" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="790" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-45" value="Sensors:&lt;br&gt;Датчик воды&lt;br&gt;Датчик дыма&lt;br&gt;Датчик потребление электроэнергии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-46" value="Sensors:&lt;br&gt;Датчик воды&lt;br&gt;Датчик дыма" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-49" value="Roof" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoGvCS8tNq0_ag4hxfwt-50" value="Sensors:&lt;br&gt;Датчик воды&lt;br&gt;Датчик дыма" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
